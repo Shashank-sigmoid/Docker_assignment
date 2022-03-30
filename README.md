@@ -1,4 +1,4 @@
-# Docker_assignment
+# Docker_and_Kubernetes_assignment
 
 ### Assignment instructions in the PDF file
 
