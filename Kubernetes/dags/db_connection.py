@@ -8,7 +8,7 @@ def create_connection():
 
     def connect():
         # DB variables
-        db_host = "postgres"
+        db_host = "postgres-service-db"
         db_name = "airflow"
         db_user = "airflow"
         db_pass = "airflow"
