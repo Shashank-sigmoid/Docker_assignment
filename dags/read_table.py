@@ -8,7 +8,7 @@ def read_table_data():
 
     def connect():
         # DB variables
-        db_host = "localhost"
+        db_host = "postgres"
         db_name = "airflow"
         db_user = "airflow"
         db_pass = "airflow"
