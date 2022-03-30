@@ -36,4 +36,4 @@ spec:
         - name: dags-host-volume
           hostPath:
             path: /mnt/airflow/dags
-            type: Directory
+            type: DirectoryOrCreate
